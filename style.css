@@ -8,6 +8,7 @@
     color: #f9faf8;
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 15px;
 }
 
@@ -15,10 +16,15 @@
     font-size: 24px;
 }
 
-ul {
+.header-links {
     font-size: 18px;
     list-style-type: none;
     display: flex;
     justify-content: space-between;
     gap: 18px;
+}
+
+a:link {
+    color: #f9faf8;
+    text-decoration: none;
 }
