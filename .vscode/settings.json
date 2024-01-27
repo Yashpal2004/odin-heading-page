@@ -1,5 +1,9 @@
 {
     "cSpell.words": [
-        "signup"
+        "signup",
+        "Sukuna"
+    ],
+    "cSpell.enableFiletypes": [
+        "!html"
     ]
 }
