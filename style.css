@@ -132,3 +132,31 @@ div figure img {
 .seg-3-para {
     width: 70%;
 }
+
+
+.seg-4 {
+    background-color: #f9faf8;
+}
+
+.seg-4-signup {
+    background-color: #3882f6;
+    border-radius: 5px;
+    margin: 50px;
+    padding: 40px;
+    font-size: 25px;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+
+.seg-4-button button {
+    font-size: 15px;
+    background-color: #3882f6;
+    color: #f9faf8;
+    border: 2px solid #f9faf8;
+    border-radius: 2px;
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
