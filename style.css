@@ -160,3 +160,11 @@ div figure img {
     padding-left: 10px;
     padding-right: 10px;
 }
+
+
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 20px;
+    text-align: center;
+}
