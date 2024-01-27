@@ -29,6 +29,11 @@ a:link {
     text-decoration: none;
 }
 
+a:visited {
+    color: #f9faf8;
+    text-decoration: none;
+}
+
 
 
 .seg-1 {
